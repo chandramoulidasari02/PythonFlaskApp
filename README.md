@@ -1,2 +1,4 @@
 # PythonFlaskApp
-A Flask WebApp website
+A Flask WebApp
+
+![image](static/apppreview.png)
