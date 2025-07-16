@@ -1,4 +1,4 @@
 # PythonFlaskApp
 A Flask WebApp
 
-![image](static/apppreview.png)
+![image](static/apppreview.png width="100")
